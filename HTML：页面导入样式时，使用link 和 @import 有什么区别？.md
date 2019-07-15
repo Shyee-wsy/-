@@ -10,7 +10,7 @@
 2.3 link 是XHTML标签，无兼容问题；@important是在CSS2.1提出的，IE5以下的浏览器不支持；  
 2.4 link支持使用JavaScript控制DOM去改变样式；而@important不支持；
   
-###### 涉及知识点：  
+###### 其他知识点：  
 1. URI 和 URL 的区别：
 URI: Uniform Resource Identifier，统一资源标识符  
 URL: Uniform Resource Location, 统一资源定位符  
@@ -21,4 +21,3 @@ XHTML 元素必须被关闭；
 标签名必须用小写；  
 XHTML 文档必须拥有根元素；
 参考网站： https://www.jianshu.com/p/8e65f98980bb
-
