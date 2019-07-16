@@ -31,6 +31,10 @@ br - 换行
 <main>：主内容。存放每个页面独有的内容。每个页面上只能用一次 <main>，且直接位于 <body> 中。最好不要把它嵌套进其它元素。主内容中还可以有各种子内容区段，可用<article>、<section> 和 <div> 等元素表示。
 <aside>：侧边栏，经常嵌套在 <main> 中。
 <footer>：页脚。
+<video></video>: 视频
+<audio>: 音频
+<canvas>: 画布
+<svg></svg>: 可伸缩矢量图形；
 ```
 ### 行内元素：
 ```
@@ -46,6 +50,9 @@ br - 换行
 <u></u>：被用来传达传统上用下划线表达的意义：专有名词，拼写错误……
 <strong></strong>：强调
 <from>: 表单元素
+<datalist>: 表单新元素，datalist 元素规定输入域的选项列表。
+<option>: 列表是通过 datalist 内的 option 元素创建的。
+<keygen></keygen>: keygen 元素的作用是提供一种验证用户的可靠方法。
 <input>:输入框
 <button>:按钮  
 <label>:标签  
@@ -63,3 +70,4 @@ br - 换行
 ```
 <br>: 可在段落中进行换行；<br> 是唯一能够生成多个短行结构（例如邮寄地址或诗歌）的元素。
 ```
+h5元素：http://www.w3school.com.cn/tags/index.asp
