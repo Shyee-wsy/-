@@ -35,5 +35,6 @@ Issue 是指一项待完成的工作，通常与系统的改进相关，中文�
 2.点击“Create a project”，新建一个Project，接着点击“Add a column”按钮，为项目新建若干个列，列可拖动。每个列中可新建notes，notes可添加至Issue中。
 ```  
 
+
 https://help.github.com/en/articles/about-issues  
 http://www.ruanyifeng.com/blog/2017/08/issue.html  
