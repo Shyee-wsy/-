@@ -133,6 +133,15 @@ css
   text-align:left;
 }
 ```
+#### 3. flex  
+```
+.wp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
+
 
 
 
