@@ -104,7 +104,7 @@ css
 ```  
 
 #### 1. absolute + transform   
-```
+```css
 .wp{
   position: relative;
 }
@@ -119,7 +119,7 @@ css
 ```
 
 #### 2. line-height  
-```
+```css
 .wp{
   line-height: 300px;
   text-align: center; /*设置水平居中*/
@@ -134,8 +134,6 @@ css
 }
 ```
 
-
-  
 
 
       
