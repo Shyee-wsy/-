@@ -54,7 +54,7 @@ html
   margin-top: -50px; /* margin-bottom: 50px;是无效的*/
 }
 ``` 
-#### 2. absolute + calc
+#### 2. absolute + calc()
 ```css
 .wp{
   position: relative;
@@ -83,7 +83,8 @@ html
 /*amzing! unbelievable!~ ~*/
 ```
   
-## 无需固定框高  
+## 无需固定框高    
+### 公共代码  
 html  
 ```html
 <div class="wp">
