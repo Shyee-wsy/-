@@ -33,8 +33,8 @@ output:
 4
 
 for(let i = 0; i<4; i++){
-  setTimeout(function() {  // 同步注册回调函数到异步的宏任务队列。
-    console.log(i);        // 执行此代码时，同步代码for循环已经执行完成
+  setTimeout(function() {  
+    console.log(i);       
   }, 0);
 }
 output:
