@@ -25,7 +25,8 @@ html
 <div class="wp">
   <div class="box size">123</div>
 </div>
-```  
+```   
+css
 ```css
 .size{
   width: 100px;
