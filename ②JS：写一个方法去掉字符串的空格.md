@@ -10,10 +10,10 @@ MDN：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statemen
 并为每个不同属性的值执行语句（遍历值）  
 MDN: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for...of  
   
-4. forEach(): 该方法对数组的每个元素执行一次提供的函数；  
+4. <b>forEach():</b> 该方法对数组的每个元素执行一次提供的函数；  
 MDN：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach  
   
-5.正则表达式  
+5. <b>正则表达式</b>  
 （1） var express = / pattern / flags;  
 模式（pattern）部分可以是任何简单或复杂的正则表达式，可以包含字符类、限定符、分组、向前查找以及反向引用；标志（flags）用以表明正则表达式的行为，可以是  
 g、i和m 的任意组合。g（global）表示全局模式，即模式将被应用于所有字符串，而非在发现第一个匹配项时立即停止；i表示不区分大小写；m（multiline）表示多行  
