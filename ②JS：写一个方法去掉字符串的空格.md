@@ -23,7 +23,21 @@ g、i和m 的任意组合。g（global）表示全局模式，即模式将被应
 ###### 使用正则表达式实现  
 ```javascript
 function test(str){
- str1 = str.replace(/\s+/g,'');
+ let str1 = str.replace(/\s+/g,'');
   console.log(str1)
+}
+```  
+###### 使用字符串和数组的转换方法  
+```javascript
+function test(str){
+  let str1 =  str.split(' ').join('');
+  console.log(str1);
+}
+```
+###### 使用数组的filter方法  
+```javascript
+function test(str){
+  let str1 = str.split('').filter( el => el !== ' ').join('');
+  console.log(str1);
 }
 ```
